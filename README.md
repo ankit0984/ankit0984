@@ -52,10 +52,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch" />
 </div>
-
-
-<h2 align="left">📈 Contribution Activity</h2>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankit0984&radius=16&theme=react&area=true&order=5&hide_border=true" height="300" alt="activity-graph" />
-</div>
